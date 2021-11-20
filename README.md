@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gatuzo
+- 👋 Hi, I’m @fly
 - 👀 I’m interested in music 
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on ...
